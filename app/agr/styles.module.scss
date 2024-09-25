@@ -1,0 +1,75 @@
+.page {
+  font-size: 12px;
+  letter-spacing: 0.5px;
+
+  span {
+    display: inline-block;
+  }
+
+  .table_data {
+    th,
+    td {
+      border: 1px solid #000;
+    }
+
+    thead {
+      background-color: rgba(207, 206, 206, 0.582);
+      th {
+        padding: 5px;
+        line-height: 1;
+
+        span {
+          display: block;
+          text-align: center;
+        }
+        span + span {
+          font-weight: normal;
+          font-size: 10px;
+        }
+
+        &:nth-child(1) {
+          width: 63px;
+        }
+
+        &:nth-child(2) {
+          width: 178px;
+        }
+
+        &:nth-child(3) {
+          width: 97px;
+        }
+
+        &:nth-child(4) {
+          width: 97px;
+        }
+
+        &:nth-child(5) {
+          width: 128px;
+        }
+      }
+    }
+
+    tbody {
+      font-size: 10.5px;
+      line-height: 1.2;
+
+      td {
+        vertical-align: top;
+        padding: 4px;
+        padding-bottom: 1px;
+
+        &:nth-child(2) {
+          padding-left: 0;
+          padding-right: 0;
+        }
+
+        &:nth-child(3),
+        &:nth-child(4),
+        &:nth-child(5) {
+          text-align: right;
+          padding-right: 0;
+        }
+      }
+    }
+  }
+}

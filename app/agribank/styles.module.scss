@@ -1,0 +1,72 @@
+.page {
+  font-family: "Times New Roman", Times, serif;
+
+  h2 {
+    @apply mx-auto;
+
+    position: relative;
+    width: fit-content;
+
+    &::before {
+      content: "";
+      position: absolute;
+      bottom: -4px;
+      left: 50%;
+      width: 85%;
+      height: 2px;
+      background-color: black;
+      transform: translateX(-50%);
+    }
+  }
+
+  table {
+    width: 100%;
+    table-layout: fixed;
+    font-size: 14.5px;
+
+    th,
+    td {
+      border: 1px solid black;
+    }
+
+    thead {
+      th {
+        padding: 2px 8.7px;
+        word-break: break-all;
+        line-height: 1.1;
+
+        &:nth-child(1) {
+          width: 114px;
+        }
+
+        &:nth-child(2) {
+          width: 90px;
+        }
+
+        &:nth-child(3) {
+          width: 108px;
+        }
+
+        &:nth-child(4) {
+          width: 108px;
+        }
+
+        &:nth-child(5) {
+          width: 90px;
+        }
+
+        &:nth-child(6) {
+          width: 98px;
+        }
+      }
+    }
+
+    tbody {
+      td {
+        text-align: center;
+        height: 36px;
+        vertical-align: top;
+      }
+    }
+  }
+}

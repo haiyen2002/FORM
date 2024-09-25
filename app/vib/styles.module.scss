@@ -1,0 +1,54 @@
+.main {
+  font-size: 12px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: 500;
+  width: 794px;
+  margin: 0 auto;
+}
+
+.table {
+  thead {
+    tr {
+      border-top: 2px solid #000;
+      border-bottom: 2px solid #000;
+    }
+
+    th {
+      vertical-align: top;
+      text-align: left;
+
+      &:nth-child(4) {
+        width: 56px;
+      }
+
+      &:nth-child(8) {
+        text-align: center;
+      }
+
+      &:nth-child(6),
+      &:nth-child(7) {
+        text-align: right;
+      }
+
+      &:nth-child(9) {
+        text-align: center;
+        width: 118px;
+      }
+    }
+  }
+
+  tbody {
+    td {
+      padding: 2px 1px;
+      word-wrap: break-word;
+
+      &:nth-child(6),
+      &:nth-child(7),
+      &:nth-child(8) {
+        text-align: right;
+      }
+
+      vertical-align: top;
+    }
+  }
+}

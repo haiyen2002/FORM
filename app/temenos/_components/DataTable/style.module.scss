@@ -1,0 +1,143 @@
+.container {
+  font-size: 11px;
+  thead {
+    // display: none !important;
+    th {
+      padding: 0px;
+    }
+  }
+
+  tbody {
+    tr {
+      &:first-child {
+        background-color: rgba(223, 223, 223, 0.5) !important;
+      }
+    }
+  }
+  thead {
+    display: table-header-group;
+    tr {
+      background-color: rgb(250, 248, 248);
+    }
+
+    th {
+      width: 9%;
+
+      &:last-child {
+        width: 10.5%;
+      }
+      &:nth-child(7) {
+        width: 9.5%;
+      }
+      &:nth-child(8) {
+        width: 9.5%;
+      }
+      //   &:first-child {
+      //     width: 6%;
+      //   }
+
+      &:nth-child(2) {
+        width: 9.5%;
+      }
+
+      //   &:nth-child(3) {
+      //     width: 7%;
+      //   }
+
+      &:nth-child(4) {
+        width: 9%;
+      }
+
+      &:nth-child(5) {
+        width: 6.5%;
+      }
+
+      &:nth-child(6) {
+        width: 6.5%;
+      }
+    }
+  }
+
+  th,
+  td {
+    padding: 4px 6px;
+    text-align: left;
+    vertical-align: top;
+  }
+
+  tbody {
+    tr {
+      &:nth-child(2) {
+        td {
+          padding-top: 16px;
+        }
+      }
+
+      &:nth-child(odd) {
+        background-color: rgba(238, 235, 235, 0.5);
+      }
+    }
+
+    td {
+      word-wrap: break-word;
+      //   padding-right: 20px;
+      text-align: justify;
+      word-break: break-all;
+      font-weight: 400;
+
+      //   &:nth-child(7) {
+      //     padding-right: 16px;
+      // font-size: 1px;
+      //   }
+    }
+  }
+
+  tr {
+    @media print {
+      th,
+      td {
+        &:first-child {
+          display: none;
+        }
+      }
+    }
+  }
+
+  @media print {
+    thead {
+      //   display: table-header-group; /* Ensure thead is treated as a table header */
+      display: table-row;
+      width: 100%;
+    }
+    table {
+      page-break-inside: auto; /* Allow table to break inside */
+    }
+    tr {
+      page-break-inside: avoid; /* Prevent row from breaking inside */
+      page-break-after: auto; /* Allow page break after rows */
+    }
+    // thead {
+    //   display: none; /* Hide table header */
+    // }
+  }
+
+  tr.break {
+    page-break-before: always;
+    td {
+      padding-top: 148px;
+    }
+  }
+
+  // tr[datatype="footer"] {
+  //   &::after {
+  //     content: "";
+  //     display: block;
+  //     height: 1px;
+  //     position: fixed;
+  //     background-color: #000;
+  //     bottom: 46px;
+  //     left: 0;
+  //     width: 100%;
+  //   }
+  // }
+}

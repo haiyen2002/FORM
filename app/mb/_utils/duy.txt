@@ -1,0 +1,36 @@
+account
+: 
+"0902089383"
+branch
+: 
+"VN0010253 - CN HAI PHONG"
+code
+: 
+"108878"
+customer_name
+: 
+"PHAM VAN DUY"
+date
+: 
+"Ngày 12 tháng 06 năm 2024"
+date_created
+: 
+"12/06/2024"
+end
+: 
+"108,762,103.00"
+from
+: 
+"01/05/2023"
+start
+: 
+"15,382,035.00"
+time_created
+: 
+"14:18:33"
+to
+: 
+"31/05/2024"
+user_created
+: 
+"LOINT33"

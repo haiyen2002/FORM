@@ -1,0 +1,618 @@
+[
+  {
+    "a": "30/11/2023",
+    "b": "8999916121986-20231130",
+    "c": "",
+    "d": "2,572.00",
+    "e": "BUT TOAN TRA LAI"
+  },
+  {
+    "a": "30/11/2023",
+    "b": "FT23213936496048",
+    "c": "113,794.00",
+    "d": "",
+    "e": "OP VNFISAT-BC PAYMENT"
+  },
+  {
+    "a": "04/12/2023",
+    "b": "FT2321402159764",
+    "c": "600,000.00",
+    "d": "",
+    "e": "NGUYEN THI NA chuyen khoan"
+  },
+  {
+    "a": "05/12/2023",
+    "b": "FT23214071097871",
+    "c": "",
+    "d": "152,000.00",
+    "e": "Thanh toan QR-TRUONG CONG MINH chuyen"
+  },
+  {
+    "a": "06/12/2023",
+    "b": "FT23214672802147",
+    "c": "",
+    "d": "210,000.00",
+    "e": "DUONG HONG HAI chuyen tien FT23214 90087008 Ma giao dich Trace028439 Ma giao dich Trace028439"
+  },
+  {
+    "a": "06/12/2023",
+    "b": "FT2321464310342",
+    "c": "107,726.00",
+    "d": "",
+    "e": "OP VNFISAT-BC PAYMENT"
+  },
+  {
+    "a": "07/12/2023",
+    "b": "FT23214201650855",
+    "c": "1,006,644.00",
+    "d": "",
+    "e": "POSRETAIL-214-45679273-TID-MBCOMP U-MID-ONEPAY-VN-TXCODE-29918617- TIME 8041199999"
+  },
+  {
+    "a": "09/12/2023",
+    "b": "FT23215134921598",
+    "c": "",
+    "d": "86,000.00",
+    "e": "DOAN THI THANH THUY chuyen tien Ma giao dich Trace604162 Ma giao dich Trace604162"
+  },
+  {
+    "a": "11/12/2023",
+    "b": "FT23177098101136/BR1",
+    "c": "",
+    "d": "39,744,041.00",
+    "e": "MBAL TT hoa hong va thuong dai ly dot 1 t_hang 11.2023"
+  },
+  {
+    "a": "16/12/2023",
+    "b": "FT23215967307000",
+    "c": "",
+    "d": "105,000.00",
+    "e": "DOAN DUNG CHI chuyen tien Ma giao dich Trace149160 Ma giao dich Trace149160"
+  },
+  {
+    "a": "17/12/2023",
+    "b": "FT23216460655812",
+    "c": "201,329.00",
+    "d": "",
+    "e": "POSRETAIL-214-45930100-TID-MBCOMP U-MID-ONEPAY-VN-TXCODE-29946774- TIME 8041199999"
+  },
+  {
+    "a": "18/12/2023",
+    "b": "FT23930062182602/BR1",
+    "c": "",
+    "d": "39,634,360.00",
+    "e": "MBAL TT hoa hong va thuong dai ly dot 2 t_hang 99283444"
+  },
+  {
+    "a": "19/12/2023",
+    "b": "FT23216307104005",
+    "c": "805,315.00",
+    "d": "",
+    "e": "POSRETAIL-214-11537230-TID-MBCOMP U-MID-ONEPAY-VN-TXCODE-29953740- TIME 8041199999"
+  },
+  {
+    "a": "19/12/2023",
+    "b": "FT23216521070250",
+    "c": "122,111.00",
+    "d": "",
+    "e": "OP VNFISAT-BC PAYMENT"
+  },
+  {
+    "a": "25/12/2023",
+    "b": "FT23217081605063",
+    "c": "150,997.00",
+    "d": "",
+    "e": "POSRETAIL-214-170993581-TID-MBCOMP U-MID-ONEPAY-VN-TXCODE-299712049- TIME 8041199999"
+  },
+  {
+    "a": "27/12/2023",
+    "b": "FT23217871371410",
+    "c": "",
+    "d": "900,000.00",
+    "e": "GIANG THI PHUONG ANH chuyen tien Ma giao dich Trace508270 Trace 508 270"
+  },
+  {
+    "a": "30/12/2023",
+    "b": "FT23217209069262",
+    "c": "71,667.00",
+    "d": "",
+    "e": "OP VNFISAT-BC PAYMENT"
+  },
+  {
+    "a": "30/12/2023",
+    "b": "FT23217070202551",
+    "c": "805,315.00",
+    "d": "",
+    "e": "POSRETAIL-217100987744-TID-MBECOMP U-MID-ONEPAYVL1-TRXCODE-299715344-TIME-100922"
+  },
+  {
+    "a": "30/12/2023",
+    "b": "FT23217802025805",
+    "c": "",
+    "d": "1,000,000.00",
+    "e": "Chuyen tien"
+  },
+  {
+    "a": "30/12/2023",
+    "b": "FT23219823727033",
+    "c": "805,315.00",
+    "d": "",
+    "e": "POSRETAIL-21732191350-TID-MBECOMP U-MID-ONEPAYVL1-TRXCODE-299843617-TIME-231710"
+  },
+  {
+    "a": "30/12/2023",
+    "b": "8999916121986-20231230",
+    "c": "",
+    "d": "1,079.00",
+    "e": "BUT TOAN TRA LAI"
+  },
+  {
+    "a": "01/01/2024",
+    "b": "FT24219085314181",
+    "c": "",
+    "d": "1,000,000.00",
+    "e": "GIANG THI PHUONG ANH chuyen tien Ma giao dich Trace 361 913"
+  },
+  {
+    "a": "01/01/2024",
+    "b": "FT24219072336223",
+    "c": "",
+    "d": "349,000.00",
+    "e": "Chuyen tien len ngan hang Ma giao dich Trace 867492"
+  },
+  {
+    "a": "01/01/2024",
+    "b": "FT24219871724800",
+    "c": "1,006,644.00",
+    "d": "",
+    "e": "POSRETAIL-217841532904-TID-MBECOMP U-MID-ONEPAYVL1-TRXCODE-299097931-TIME-123219"
+  },
+  {
+    "a": "01/01/2024",
+    "b": "FT24219501080063",
+    "c": "",
+    "d": "125,000.00",
+    "e": "Le Van Trung chuyen tien qua MoMo Ma giao dich Trace 367477 Trace 36 747"
+  },
+  {
+    "a": "02/01/2024",
+    "b": "FT2421908319084",
+    "c": "",
+    "d": "50,000.00",
+    "e": "MBVCB. 3967065623.0060.NGUYEN TRONG THACH chuyen tien.CT tu 0200100609064 NGUYEN TRONG THACH toi 0490240515 NGUYEN THI NA tai MB Ma GD- ACSP"
+  },
+  {
+    "a": "03/01/2024",
+    "b": "FT24219335862836",
+    "c": "122,945.00",
+    "d": "",
+    "e": "OP VNFASIT-B2C PAYMENT"
+  },
+  {
+    "a": "05/01/2024",
+    "b": "FT24219071212964",
+    "c": "301,993.00",
+    "d": "",
+    "e": "POSRETAIL-21915098724-TID-MBECOMP U-MID-ONEPAYVL1-TRXCODE-300097981-TIME-150715"
+  },
+  {
+    "a": "05/01/2024",
+    "b": "FT24219381686099",
+    "c": "129,207.00",
+    "d": "",
+    "e": "OP VNFASIT-B2C PAYMENT"
+  },
+  {
+    "a": "06/01/2024",
+    "b": "FT24219881923544",
+    "c": "",
+    "d": "1,000,000.00",
+    "e": "GIANG THI PHUONG ANH chuyen tien Ma giao dich Trace 895 955"
+  },
+  {
+    "a": "07/01/2024",
+    "b": "FT24219321785964",
+    "c": "1,006,644.00",
+    "d": "",
+    "e": "POSRETAIL-21915281014-TID-MBECOMP U-MID-ONEPAYVL1-TRXCODE-301138690-TIME-182529"
+  },
+  {
+    "a": "09/01/2024",
+    "b": "FT24220661752340",
+    "c": "",
+    "d": "1,000,000.00",
+    "e": "GIANG THI PHUONG ANH chuyen tien Ma giao dich Trace 132 337"
+  },
+  {
+    "a": "09/01/2024",
+    "b": "FT24220052755475",
+    "c": "108,817.00",
+    "d": "",
+    "e": "OP VNFASIT-B2C PAYMENT"
+  },
+  {
+    "a": "10/01/2024",
+    "b": "FT24426791386899/BR1",
+    "c": "",
+    "d": "39,826,718.00",
+    "e": "MBAL TT hoa hong va thuong dai ly dot 1 t_hang 12.2023"
+  },
+  {
+    "a": "11/01/2024",
+    "b": "FT24221524259065",
+    "c": "8,053,150.00",
+    "d": "",
+    "e": "Na ck"
+  },
+  {
+    "a": "14/01/2024",
+    "b": "FT24227777421361",
+    "c": "",
+    "d": "50,000.00",
+    "e": "Thao Nguyen FT232227704162 Ma giao dich Trace 80210 Trace 80210"
+  },
+  {
+    "a": "15/01/2024",
+    "b": "FT24222150059801",
+    "c": "",
+    "d": "50,000.00",
+    "e": "LE BICH DIEP chuyen tien FT23222740 Ma giao dich Trace 040113"
+  },
+  {
+    "a": "15/01/2024",
+    "b": "FT24222900862463",
+    "c": "107,726.00",
+    "d": "",
+    "e": "OP VNFASIT-B2C PAYMENT"
+  },
+  {
+    "a": "15/01/2024",
+    "b": "FT24222448525493",
+    "c": "110,000.00",
+    "d": "",
+    "e": "na chuyen FT23222755266 Ma giao dich Trace 162138"
+  },
+  {
+    "a": "15/01/2024",
+    "b": "FT24222338061366",
+    "c": "",
+    "d": "1,000,000.00",
+    "e": "GIANG THI PHUONG ANH chuyen tien Ma giao dich Trace 191 684"
+  },
+  {
+    "a": "16/01/2024",
+    "b": "FT24223808383777",
+    "c": "119,991.00",
+    "d": "",
+    "e": "OP VNFASIT-B2C PAYMENT"
+  },
+  {
+    "a": "16/01/2024",
+    "b": "FT24223382554420",
+    "c": "10,000,000.00",
+    "d": "",
+    "e": "NGUYEN THI NA chuyen khoan"
+  },
+  {
+    "a": "17/01/2024",
+    "b": "FT24223107334201",
+    "c": "704,651.00",
+    "d": "",
+    "e": "POSRETAIL-223029441298-TID-MBECOMP U-MID-ONEPAYVL1-TRXCODE-301013265-TIME-202709"
+  },
+  {
+    "a": "18/01/2024",
+    "b": "FT24119469026182/BR1",
+    "c": "",
+    "d": "39,530,029.00",
+    "e": "MBAL TT hoa hong va thuong dai ly dot 2 t_hang 160632782"
+  },
+  {
+    "a": "20/01/2024",
+    "b": "FT24224711937344",
+    "c": "",
+    "d": "1,000,000.00",
+    "e": "GIANG THI PHUONG ANH chuyen tien Ma giao dich Trace 663871 Trace 863 871"
+  },
+  {
+    "a": "22/01/2024",
+    "b": "FT2422468191387",
+    "c": "112,221.00",
+    "d": "",
+    "e": "OP VNFASIT-B2C PAYMENT"
+  },
+  {
+    "a": "23/01/2024",
+    "b": "FT24226576565955",
+    "c": "1,006,644.00",
+    "d": "",
+    "e": "POSRETAIL-224191516585-TID-MBECOMP U-MID-ONEPAYVL1-TRXCODE-301185626-TIME-191827"
+  },
+  {
+    "a": "24/01/2024",
+    "b": "FT24226022070737",
+    "c": "",
+    "d": "1,000,000.00",
+    "e": "NGUYEN QUOC KHANH chuyen tien.CT tu  0940204051123 NGUYEN QUOC KHANH toi 8999916121986 NGUYEN THI NA Ma GD ACSP"
+  },
+  {
+    "a": "25/01/2024",
+    "b": "FT24226021706495",
+    "c": "68,000,000.00",
+    "d": "",
+    "e": "NGUYEN THI NA chuyen khoan"
+  },
+  {
+    "a": "26/01/2024",
+    "b": "FT2422606416191",
+    "c": "",
+    "d": "80,000.00",
+    "e": "NAM NINH TIEN chuyen tien FT2327246 73676766 Ma giao dich Trace 41936 Trace 41936"
+  },
+  {
+    "a": "26/01/2024",
+    "b": "FT24226020758054",
+    "c": "156,000.00",
+    "d": "",
+    "e": "CK Ma giao dich Trace02640 Trace o 026260"
+  },
+  {
+    "a": "27/01/2024",
+    "b": "FT24226669627093",
+    "c": "",
+    "d": "800,000.00",
+    "e": "GIANG THI PHUONG ANH chuyen tien Ma giao dich Trace769760 Trace 769 760"
+  },
+  {
+    "a": "27/01/2024",
+    "b": "FT24226400406457",
+    "c": "503,322.00",
+    "d": "",
+    "e": "POSRETAIL-22516227349-TID-MBECOMP U-MID-ONEPAYVL1-TRXCODE-30121518-TIME-164252"
+  },
+  {
+    "a": "27/01/2024",
+    "b": "FT2422690508267",
+    "c": "50,000,000.00",
+    "d": "",
+    "e": "NGUYEN THI NA chuyen khoan"
+  },
+  {
+    "a": "30/01/2024",
+    "b": "8999916121986-20240130",
+    "c": "",
+    "d": "1,797.00",
+    "e": "BUT TOAN TRA LAI"
+  },
+  {
+    "a": "01/02/2024",
+    "b": "FT24226837857890",
+    "c": "10,000,000.00",
+    "d": "",
+    "e": "NGUYEN THI NA chuyen khoan"
+  },
+  {
+    "a": "02/02/2024",
+    "b": "FT24226830701549",
+    "c": "133,349.00",
+    "d": "",
+    "e": "OP VNFASIT-B2C PAYMENT"
+  },
+  {
+    "a": "04/02/2024",
+    "b": "FT24226072895557",
+    "c": "603,986.00",
+    "d": "",
+    "e": "POSRETAIL-225233831717-TID-MBECOMP U-MID-ONEPAYVL1-TRXCODE-30133522-TIME-231027"
+  },
+  {
+    "a": "05/02/2024",
+    "b": "FT24584836043347/BR1",
+    "c": "",
+    "d": "39,050,856.00",
+    "e": "MBAL TT hoa hong va thuong dai ly dot 1 t_hang 01.2024"
+  },
+  {
+    "a": "05/02/2024",
+    "b": "FT24226619035093",
+    "c": "603,986.00",
+    "d": "",
+    "e": "POSRETAIL-22618737868-TID-MBECOMP U-MID-ONEPAYVL1-TRXCODE-301553752-TIME-187225"
+  },
+  {
+    "a": "08/02/2024",
+    "b": "FT2422610000983",
+    "c": "112,093.00",
+    "d": "",
+    "e": "OP VNFASIT-B2C PAYMENT"
+  },
+  {
+    "a": "08/02/2024",
+    "b": "FT24226959137105",
+    "c": "490,000.00",
+    "d": "",
+    "e": "NGUYEN THI NA chuyen khoan"
+  },
+  {
+    "a": "09/02/2024",
+    "b": "FT24227013454439",
+    "c": "",
+    "d": "50,000.00",
+    "e": "MBCVB.40337133865309698.BACH DUC HIEP chuyen tien FT232251042429248; BACH DUC HIEP toi 8999916121986 NGUYEN THI NA tai MB-Ma GD ACSP"
+  },
+  {
+    "a": "10/02/2024",
+    "b": "FT24227124509404",
+    "c": "",
+    "d": "950,000.00",
+    "e": "QUACH VINH AN chuyen khoan"
+  },
+  {
+    "a": "10/02/2024",
+    "b": "FT24227640338264",
+    "c": "98,254.00",
+    "d": "",
+    "e": "OP VINFASTI-B2C PAYMENT"
+  },
+  {
+    "a": "11/02/2024",
+    "b": "FT24227300090772",
+    "c": "905,979.00",
+    "d": "",
+    "e": "POSRETAIL-227180339879-TID-MBECOMP U-MID-ONEPAYWL1-TRXCODE-301752372-TIME-210351"
+  },
+  {
+    "a": "13/02/2024",
+    "b": "FT242285423350",
+    "c": "1,000,000.00",
+    "d": "",
+    "e": "NGUYEN THI NA chuyen tien FT2322886 3607365 giao dich Trace270771"
+  },
+  {
+    "a": "13/02/2024",
+    "b": "FT24228595290602",
+    "c": "",
+    "d": "500,000.00",
+    "e": "PHAM THANH CONG chuyen khoan"
+  },
+  {
+    "a": "14/02/2024",
+    "b": "FT24228607577994",
+    "c": "80,529.00",
+    "d": "",
+    "e": "OP VINFASTI-B2C PAYMENT"
+  },
+  {
+    "a": "14/02/2024",
+    "b": "FT24228322722752",
+    "c": "50,000,000.00",
+    "d": "",
+    "e": "NGUYEN THI NA chuyen khoan"
+  },
+  {
+    "a": "15/02/2024",
+    "b": "FT2422807757823",
+    "c": "",
+    "d": "500,000.00",
+    "e": "MBVCB.4040182895077052 NGUYEN PHUOC LONG chuyen tien.CT tu 0331000418 502 NGUYEN PHUOC LONG toi 8999916121986 NGUYEN THI NA tai MB- Ma GD ACSP"
+  },
+  {
+    "a": "16/02/2024",
+    "b": "FT24228381607951",
+    "c": "500,000.00",
+    "d": "",
+    "e": "NGUYEN THI NA chuyen khoan"
+  },
+  {
+    "a": "18/02/2024",
+    "b": "FT24228976108035",
+    "c": "",
+    "d": "250,000.00",
+    "e": "QUACH VINH AN chuyen khoan"
+  },
+  {
+    "a": "19/02/2024",
+    "b": "FT24228210500213",
+    "c": "100,000.00",
+    "d": "",
+    "e": "NGUYEN THI NA chuyen khoan"
+  },
+  {
+    "a": "20/02/2024",
+    "b": "FT24228170280483",
+    "c": "",
+    "d": "650,000.00",
+    "e": "TRAN HOANG HUU DAT chuyen tien Ma giao dich Trace47619"
+  },
+  {
+    "a": "21/02/2024",
+    "b": "FT24228801668078",
+    "c": "",
+    "d": "75,000.00",
+    "e": "LE MANH HUNG chuyen tien Ma giao dich Trace32920"
+  },
+  {
+    "a": "21/02/2024",
+    "b": "FT24229878769326",
+    "c": "301,993.00",
+    "d": "",
+    "e": "POSRETAIL-228222954609-TID-MBECOMP U-MID-ONEPAYWL1-TRXCODE-302021899-TIME-222804"
+  },
+  {
+    "a": "22/02/2024",
+    "b": "FT24474079818447/BR1",
+    "c": "",
+    "d": "39,235,879.00",
+    "e": "MBAL TT hoa hong va thuong dai ly dot 2 t_hang 60067958"
+  },
+  {
+    "a": "24/02/2024",
+    "b": "FT24229176766876",
+    "c": "452,990.00",
+    "d": "",
+    "e": "POSRETAIL-229094180383-TID-MBECOMP U-MID-ONEPAYWL1-TRXCODE-302076036-TIME-094734"
+  },
+  {
+    "a": "24/02/2024",
+    "b": "FT2422908209895",
+    "c": "",
+    "d": "210,000.00",
+    "e": "VU VAN HUY chuyen tien FT2322950500 3755 Ma giao dich Trace79989"
+  },
+  {
+    "a": "25/02/2024",
+    "b": "FT24229040927084",
+    "c": "121,115.00",
+    "d": "",
+    "e": "OP VINFASTI-B2C PAYMENT"
+  },
+  {
+    "a": "25/02/2024",
+    "b": "FT24229361021467",
+    "c": "100,664.00",
+    "d": "",
+    "e": "POSRETAIL-229213496265-TID-MBECOMP U-MID-ONEPAYWL1-TRXCODE-302216377-TIME-213251"
+  },
+  {
+    "a": "26/02/2024",
+    "b": "FT24230049835012",
+    "c": "",
+    "d": "600,000.00",
+    "e": "QUACH VINH AN chuyen khoan"
+  },
+  {
+    "a": "27/02/2024",
+    "b": "FT24230101937014",
+    "c": "603,986.00",
+    "d": "",
+    "e": "POSRETAIL-229233534627-TID-MBECOMP U-MID-ONEPAYWL1-TRXCODE-302232746-TIME-233601"
+  },
+  {
+    "a": "28/02/2024",
+    "b": "FT24230130112200",
+    "c": "",
+    "d": "1,000,000.00",
+    "e": "GIANG THI PHUONG ANH chuyen tien Ma giao dich Trace749 457"
+  },
+  {
+    "a": "28/02/2024",
+    "b": "FT24230246024458",
+    "c": "704,651.00",
+    "d": "",
+    "e": "POSRETAIL-230123721486-TID-MBECOMP U-MID-ONEPAYWL1-TRXCODE-302316420-TIME-123525"
+  },
+  {
+    "a": "29/02/2024",
+    "b": "8999916121986-20240330",
+    "c": "",
+    "d": "1,864.00",
+    "e": "BUT TOAN TRA LAI"
+  },
+  {
+    "a": "29/02/2024",
+    "b": "FT24230611668273",
+    "c": "",
+    "d": "5,000,000.00",
+    "e": "GIANG THI PHUONG ANH chuyen tien Ma giao dich"
+  }
+]

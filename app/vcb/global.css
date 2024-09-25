@@ -1,0 +1,58 @@
+body {
+  font: sans-serif;
+}
+
+@page {
+  size: A4;
+  /* set page margins */
+  margin: 0.5cm;
+  /* Default footers */
+  @bottom-left {
+    content: "Department of Strategy";
+  }
+  @bottom-right {
+    content: counter(page) " of " counter(pages);
+  }
+}
+
+@page: left {
+  @bottom-right {
+    margin: 10pt 0 30pt 0;
+    border-top: 0.25pt solid #666;
+    content: "Our Cats";
+    font-size: 9pt;
+    color: #333;
+  }
+
+  @bottom-left {
+    margin: 10pt 0 30pt 0;
+    border-top: 0.25pt solid #666;
+    content: counter(page);
+    font-size: 9pt;
+  }
+}
+
+/* footer, header - position: fixed */
+#header {
+  position: fixed;
+  width: 100%;
+  top: 0;
+  left: 0;
+  right: 0;
+}
+
+/* #footer {
+  position: fixed;
+  bottom: 52px;
+  left: 28px;
+  right: 24px;
+} */
+
+/* Fix overflow of headers and content */
+.custom-page-start {
+  margin-top: 50px;
+}
+
+.custom-footer-page-number:after {
+  content: counter(page);
+}

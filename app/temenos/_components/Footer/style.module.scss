@@ -1,0 +1,27 @@
+.current_page {
+  bottom: 30px;
+  position: absolute;
+  right: 30px;
+  text-align: right;
+
+  &::after {
+    content: "Page " counter(page) " of " counter(pageTotal);
+    // content: "Page " counter(page) " of " target-counter(attr(target), page);
+    counter-increment: page;
+  }
+  //   counter-increment: page;
+  //   content: counter(page);
+}
+
+// @media print {
+//   @page {
+//     @bottom-center {
+//       content: "Page " counter(page) " of " counter(pages);
+//       font-size: 12px;
+//     }
+//   }
+
+//   .print-footer {
+//     display: none;
+//   }
+// }

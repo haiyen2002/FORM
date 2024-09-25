@@ -1,0 +1,66 @@
+.page {
+  @font-face {
+    font-family: "Aptima";
+    src: url("/assets/fonts/aptima/SVN-Aptima bold italic.ttf")
+      format("truetype");
+    font-weight: bold;
+    font-style: italic;
+  }
+
+  @font-face {
+    font-family: "Aptima";
+    src: url("/assets/fonts/aptima/SVN-Aptima bold.ttf") format("truetype");
+    font-weight: bold;
+  }
+
+  @font-face {
+    font-family: "Aptima";
+    src: url("/assets/fonts/aptima/SVN-Aptima italic.ttf") format("truetype");
+    font-style: italic;
+  }
+
+  @font-face {
+    font-family: "Aptima";
+    src: url("/assets/fonts/aptima/SVN-Aptima.ttf") format("truetype");
+  }
+
+  @font-face {
+    font-family: "Calibri";
+    src: url("/assets/fonts/calibri/calibri.ttf") format("truetype");
+  }
+
+  @font-face {
+    font-family: "Tahoma";
+    src: url("/assets/fonts/tahoma/tahoma.ttf") format("truetype");
+  }
+
+  @font-face {
+    font-family: "Tahoma";
+    src: url("/assets/fonts/tahoma/tahoma-bold.ttf") format("truetype");
+    font-weight: bold;
+  }
+
+  @font-face {
+    font-family: "Optima";
+    src: url("/assets/fonts/optima/Optima Medium.ttf") format("truetype");
+    font-weight: medium;
+  }
+
+  @font-face {
+    font-family: "Optima";
+    src: url("/assets/fonts/optima/OPTIMA_B.TTF") format("truetype");
+    font-weight: bold;
+  }
+
+  font-family: "Aptima";
+  // font-family: Arial, Helvetica, serif;
+  font-weight: 500;
+  font-size: 11.5px;
+  line-height: 1.3;
+
+  table {
+    .font-bold {
+      font-size: 10.5;
+    }
+  }
+}

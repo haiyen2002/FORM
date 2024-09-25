@@ -1,0 +1,828 @@
+[
+  {
+    "a": "02/03/2023",
+    "b": "FT23213910895617",
+    "c": "3,250,000.00",
+    "d": "NULL",
+    "e": "NGUYEN THI HOAI THU chuyen khoan - Ma giao dich/ Trace 719302"
+  },
+  {
+    "a": "06/03/2023",
+    "b": "FT23210321379868",
+    "c": "NULL",
+    "d": "20,000,000.00",
+    "e": "TRUONG THI THUY LIEU Chuyen tien Ma giao dich Trace25898 Trace 265 898"
+  },
+  {
+    "a": "07/03/2023",
+    "b": "FT23214440360792",
+    "c": "20,000,000.00",
+    "d": "NULL",
+    "e": "chi thu ck - Ma gia dich Trace 506646"
+  },
+  {
+    "a": "11/03/2023",
+    "b": "FT23343406265699/BR1",
+    "c": "NULL",
+    "d": "30,451,995.00 ",
+    "e": "MBAL TT hoa hong va thuong dai ly dot 1 t_hang 02.2023"
+  },
+  {
+    "a": "12/03/2023",
+    "b": "FT23215896676899",
+    "c": "3,500,000.00",
+    "d": "NULL",
+    "e": "NGUYEN THI HOAI THU ck Ma giao dich Trace2972959 Trace 2972599"
+  },
+  {
+    "a": "12/03/2023",
+    "b": "FT23219451523500",
+    "c": "NULL",
+    "d": "20,000,000.00",
+    "e": "MBVCB.397901395.LE THI NGA chuyen tien. CT tu 397465905 LE THI NGA toi 18988991986 NGUYEN THI HOAI THU Ma giao dich Trace 714402"
+  },
+  {
+    "a": "17/03/2023",
+    "b": "FT23807127290751/BR1",
+    "c": "NULL",
+    "d": "50,326,391.00",
+    "e": "MBAL TT hoa hong va thuong dai ly dot 2 t_hang 02.2023"
+  },
+  {
+    "a": "27/03/2023",
+    "b": "FT23219096846000",
+    "c": "67,000,000.00",
+    "d": "NULL",
+    "e": "Thanh toan CP NGUYEN THI HOAI THU chuyen khoan- Ma GD ACSP/R745418"
+  },
+  {
+    "a": "29/03/2023",
+    "b": "FT2322056275068",
+    "c": "3,660,000.00",
+    "d": "NULL",
+    "e": "NGUYEN THI HOAI THU chuyen khoan - Ma giao dich Trace 912758"
+  },
+  {
+    "a": "29/03/2023",
+    "b": "FT23220522094116",
+    "c": "5,000,000.00",
+    "d": "NULL",
+    "e": "NGUYEN THI HOAI THU chuyen khoan - Ma giao dich Trace 746882"
+  },
+  {
+    "a": "30/03/2023",
+    "b": "FT2322016015199",
+    "c": "2,000,000.00",
+    "d": "NULL",
+    "e": "chi thu ck - Ma gia dich Trace 194117"
+  },
+  {
+    "a": "30/03/2023",
+    "b": "18988991986-20230330",
+    "c": "NULL",
+    "d": "2,369.00",
+    "e": "BUT TOAN TRA LAI"
+  },
+  {
+    "a": "06/04/2023",
+    "b": "FT23221750596700",
+    "c": "NULL",
+    "d": "12,000,000.00",
+    "e": "A HOA CK TIEN HANG 0908231756 Ma giao dich Trace686102 Trace 686102"
+  },
+  {
+    "a": "10/04/2023",
+    "b": "FT23487043621944/BR1",
+    "c": "NULL",
+    "d": "30,449,022.00",
+    "e": "MBAL TT hoa hong va thuong dai ly dot 1 t_hang 03.2023"
+  },
+  {
+    "a": "17/04/2023",
+    "b": "FT2322366582713",
+    "c": "4,500,000.00",
+    "d": "NULL",
+    "e": "NGUYEN THI HOAI THU chuyen khoan Ma giao dich Trace 561556"
+  },
+  {
+    "a": "18/04/2023",
+    "b": "FT23300845305265/BR1",
+    "c": "NULL",
+    "d": "50,642,403.00",
+    "e": "MBAL TT hoa hong va thuong dai ly dot 2 t_hang 03.2023"
+  },
+  {
+    "a": "21/04/2023",
+    "b": "FT23226558818171",
+    "c": "5,138,000.00",
+    "d": "NULL",
+    "e": "NGUYEN THI HOAI THU chuyen khoan - Ma giao dich Trace 579022"
+  },
+  {
+    "a": "23/04/2023",
+    "b": "FT2322900001773",
+    "c": "NULL",
+    "d": "10,000,000.00",
+    "e": "THEN KIU AC AH 170823113406 144028 Ma giao dich Trace144028 Trace 144028"
+  },
+  {
+    "a": "30/04/2023",
+    "b": "FT2322490449387",
+    "c": "50,000,000.00",
+    "d": "NULL",
+    "e": "NGUYEN THI HOAI THU chuyen khoan - Ma giao dich Trace 477105"
+  },
+  {
+    "a": "30/04/2023",
+    "b": "18988991986-20230430",
+    "c": "NULL",
+    "d": "2,968.00",
+    "e": "BUT TOAN TRA LAI"
+  },
+  {
+    "a": "10/05/2023",
+    "b": "FT23310009271902/BR1",
+    "c": "NULL",
+    "d": "30,886,959.00",
+    "e": "MBAL TT hoa hong va thuong dai ly dot 1 t_hang 04.2023"
+  },
+  {
+    "a": "18/05/2023",
+    "b": "FT23322705932781/BR1",
+    "c": "NULL",
+    "d": "50,300,485.00",
+    "e": "MBAL TT hoa hong va thuong dai ly dot 2 t_hang 04.2023"
+  },
+  {
+    "a": "21/05/2023",
+    "b": "FT23236809720888",
+    "c": "50,000,000.00",
+    "d": "NULL",
+    "e": "NGUYEN THI HOAI THU chuyen khoan Ma gia dich Trace386177 Trace 386177"
+  },
+  {
+    "a": "22/05/2023",
+    "b": "FT23236400040994",
+    "c": "NULL",
+    "d": "20,000,000.00",
+    "e": "TRUONG THI THUY LIEU Chuyen tien Ma giao dich Trace386177 Trace 381 677"
+  },
+  {
+    "a": "28/05/2023",
+    "b": "FT23234607160917",
+    "c": "NULL",
+    "d": "20,000,000.00",
+    "e": "a hoa chuyen khoan Ma giao dich Trace611776 Trace 611776"
+  },
+  {
+    "a": "30/05/2023",
+    "b": "18988991986-20230530",
+    "c": "NULL",
+    "d": "1,165.00",
+    "e": "BUT TOAN TRA LAI"
+  },
+  {
+    "a": "09/06/2023",
+    "b": "FT23761721585317/BR1",
+    "c": "NULL",
+    "d": "30,601,282.00",
+    "e": "MBAL TT hoa hong va thuong dai ly dot 1 t_hang 05.2023"
+  },
+  {
+    "a": "13/06/2023",
+    "b": "FT23237629679263",
+    "c": "NULL",
+    "d": "10,300,000.00",
+    "e": "MBVCB.694939285.073917.TRUONG CONG MINH chuyen tien.CT tu 103520290 TRUONG CONG MINH toi 18988991986 NGUYEN THI HOAI THU tra lai MB- Ma GD ACSP/mp037"
+  },
+  {
+    "a": "16/06/2023",
+    "b": "FT2323741412686",
+    "c": "103,000,000.00",
+    "d": "NULL",
+    "e": "NGUYEN THI HOAI THU chuyen khoan"
+  },
+  {
+    "a": "19/06/2023",
+    "b": "FT23101596512803/BR1",
+    "c": "NULL",
+    "d": "50,207,171.00",
+    "e": "MBAL TT hoa hong va thuong dai ly dot 2 t_hang 05.2023"
+  },
+  {
+    "a": "19/06/2023",
+    "b": "FT2324150396218",
+    "c": "NULL",
+    "d": "1,000,000.00",
+    "e": "MB 0339145111 TRUONG THI HOA chuyen khoan Ma giao dich Trace215592 Trace 215592"
+  },
+  {
+    "a": "20/06/2023",
+    "b": "FT2324270436412",
+    "c": "16,000,000.00",
+    "d": "NULL",
+    "e": "NGUYEN THI HOAI THU chuyen khoan - Ma giao dich/ Trace 93133"
+  },
+  {
+    "a": "20/06/2023",
+    "b": "FT23244204628102",
+    "c": "24,250,000.00",
+    "d": "NULL",
+    "e": "NGUYEN THI HOAI THU chuyen khoan - Ma giao dich/ Trace 506528"
+  },
+  {
+    "a": "24/06/2023",
+    "b": "FT2324321712099",
+    "c": "NULL",
+    "d": "4,412,000.00",
+    "e": "CHU TUAN DAT Chuyen tien Ma giao dich Trace622668 Trace 622668"
+  },
+  {
+    "a": "26/06/2023",
+    "b": "FT2324730113937",
+    "c": "3,800,000.00",
+    "d": "NULL",
+    "e": "NGUYEN THI HOAI THU chuyen khoan - Ma giao dich Trace 526894"
+  },
+  {
+    "a": "30/06/2023",
+    "b": "18988991986-20230630",
+    "c": "NULL",
+    "d": "1,100.00",
+    "e": "BUT TOAN TRA LAI"
+  },
+  {
+    "a": "10/07/2023",
+    "b": "FT23643331210629/BR1",
+    "c": "NULL",
+    "d": "30,453,478.00",
+    "e": "MBAL TT hoa hong va thuong dai ly dot 1 t_hang 06.2023"
+  },
+  {
+    "a": "15/07/2023",
+    "b": "FT2324987481750",
+    "c": "NULL",
+    "d": "10,000,000.00",
+    "e": "Ck tien hang 060923 08 50 04 08 8045 Ma giao dich Trace80845 Trace 80845"
+  },
+  {
+    "a": "18/07/2023",
+    "b": "FT23206427065724/BR1",
+    "c": "NULL",
+    "d": "50,902,262.00",
+    "e": "MBAL TT hoa hong va thuong dai ly dot 2 t_hang 06.2023"
+  },
+  {
+    "a": "29/07/2023",
+    "b": "FT2325108805067",
+    "c": "NULL",
+    "d": "3,500,000.00",
+    "e": "CHU TUAN DAT chuyen tien Ma giao dich Trace847554 Trace 847554"
+  },
+  {
+    "a": "30/07/2023",
+    "b": "18988991986-20230730",
+    "c": "NULL",
+    "d": "1,046.00",
+    "e": "BUT TOAN TRA LAI"
+  },
+  {
+    "a": "10/08/2023",
+    "b": "FT23531537355193/BR1",
+    "c": "NULL",
+    "d": "20,147,076.00",
+    "e": "MBAL TT hoa hong va thuong dai ly dot 1 t_hang 07.2023"
+  },
+  {
+    "a": "13/08/2023",
+    "b": "FT2325400649165",
+    "c": "NULL",
+    "d": "8,000,000.00",
+    "e": "LE THI PHUONG chuyen khoan"
+  },
+  {
+    "a": "14/08/2023",
+    "b": "FT2325540706157",
+    "c": "20,000,000.00",
+    "d": "NULL",
+    "e": "NGUYEN THI HOAI THU chuyen khoan - Ma giao dich/ Trace 519837"
+  },
+  {
+    "a": "16/08/2023",
+    "b": "FT2325542345201",
+    "c": "15,000,000.00",
+    "d": "NULL",
+    "e": "Ck tra tien co cua le y van - Ma giao dich/ Trace 740745"
+  },
+  {
+    "a": "18/08/2023",
+    "b": "FT23314221194656/BR1",
+    "c": "NULL",
+    "d": "50,961,548.00",
+    "e": "MBAL TT hoa hong va thuong dai ly dot 2 t_hang 07.2023"
+  },
+  {
+    "a": "25/08/2023",
+    "b": "FT2325873028118",
+    "c": "6,609,000.00",
+    "d": "NULL",
+    "e": "Tra hang ck - Ma giao dich Trace 6 87507 Trace 87507"
+  },
+  {
+    "a": "26/08/2023",
+    "b": "FT2325943384721",
+    "c": "NULL",
+    "d": "20,000,000.00",
+    "e": "TRUONG THI THUY LIEU Chuyen tien Ma giao dich Trace57574 Trace 579 541"
+  },
+  {
+    "a": "30/08/2023",
+    "b": "18988991986-20230830",
+    "c": "NULL",
+    "d": "1,876.00",
+    "e": "BUT TOAN TRA LAI"
+  },
+  {
+    "a": "06/09/2023",
+    "b": "18988991986-20230916",
+    "c": "NULL",
+    "d": "8,329.00",
+    "e": "BUT TOAN TRA LAI"
+  },
+  {
+    "a": "11/09/2023",
+    "b": "FT23605442147233/BR1",
+    "c": "NULL",
+    "d": "30,090,099.00 ",
+    "e": "MBAL TT hoa hong va thuong dai ly dot 1 t_hang 08.2023"
+  },
+  {
+    "a": "11/09/2023",
+    "b": "FT2325684183760",
+    "c": "550,000.00",
+    "d": "NULL",
+    "e": "NGUYEN THI HOAI THU chuyen khoan"
+  },
+  {
+    "a": "15/09/2023",
+    "b": "FT2325649234912",
+    "c": "10,000,000.00",
+    "d": "NULL",
+    "e": "NGUYEN THI HOAI THU chuyen khoan"
+  },
+  {
+    "a": "18/09/2023",
+    "b": "FT23703482501682/BR1",
+    "c": "NULL",
+    "d": "50,245,365.00",
+    "e": "MBAL TT hoa hong va thuong dai ly dot 2 t_hang 08.2023"
+  },
+  {
+    "a": "24/09/2023",
+    "b": "FT2326992036945",
+    "c": "20,000,000.00",
+    "d": "NULL",
+    "e": "NGUYEN THI HOAI THU chuyen khoan"
+  },
+  {
+    "a": "25/09/2023",
+    "b": "FT23270706126790",
+    "c": "NULL",
+    "d": "40,000,000.00",
+    "e": "LE VAN MINH chuyen tien den NGUYEN THI HOAI THU 18988991986 Ma giao dich Trace578039 Trace 578039"
+  },
+  {
+    "a": "30/09/2023",
+    "b": "18988991986-20230930",
+    "c": "NULL",
+    "d": "2,999.00",
+    "e": "BUT TOAN TRA LAI"
+  },
+  {
+    "a": "10/10/2023",
+    "b": "FT23985816274563/BR1",
+    "c": "NULL",
+    "d": "30,389,461.00",
+    "e": "MBAL TT hoa hong va thuong dai ly dot 1 t_hang 09.2023"
+  },
+  {
+    "a": "10/10/2023",
+    "b": "FT23270256019440",
+    "c": "NULL",
+    "d": "4,000,000.00",
+    "e": "LE VAN MINH chuyen tien den NGUYEN THI HOAI THU 18988991986 Ma giao dich Trace583365 Trace 583365"
+  },
+  {
+    "a": "18/10/2023",
+    "b": "FT23888627478375/BR1",
+    "c": "NULL",
+    "d": "50,516,314.00",
+    "e": "MBAL TT hoa hong va thuong dai ly dot 2 t_hang 09.2023"
+  },
+  {
+    "a": "20/10/2023",
+    "b": "FT23270850122512",
+    "c": "NULL",
+    "d": "6,500,000.00",
+    "e": "LE VAN MINH chuyen tien den NGUYEN THI HOAI THU 18988991986 Ma giao dich Trace590220 Trace 590220"
+  },
+  {
+    "a": "30/10/2023",
+    "b": "18988991986-20231030",
+    "c": "NULL",
+    "d": "2,471.00",
+    "e": "BUT TOAN TRA LAI"
+  },
+  {
+    "a": "01/11/2023",
+    "b": "FT23270151921817",
+    "c": "12,650,000.00",
+    "d": "NULL",
+    "e": "NGUYEN THI HOAI THU chuyen khoan"
+  },
+  {
+    "a": "10/11/2023",
+    "b": "FT23172879858394/BR1",
+    "c": "NULL",
+    "d": "30,580,879.00",
+    "e": "MBAL TT hoa hong va thuong dai ly dot 1 t_hang 10.2023"
+  },
+  {
+    "a": "12/11/2023",
+    "b": "FT2327500064786",
+    "c": "150,000,000.00",
+    "d": "8,600,000.00",
+    "e": "Ck tien co- Ma GD ACSP/ WT960980"
+  },
+  {
+    "a": "17/11/2023",
+    "b": "FT23296579362171/BR1",
+    "c": "NULL",
+    "d": "50,060,369.00",
+    "e": "MBAL TT hoa hong va thuong dai ly dot 2 t_hang 10.2023"
+  },
+  {
+    "a": "30/11/2023",
+    "b": "18988991986-20231130",
+    "c": "NULL",
+    "d": "2,572.00",
+    "e": "BUT TOAN TRA LAI"
+  },
+  {
+    "a": "04/12/2023",
+    "b": "FT23279382605603",
+    "c": "3,015,000.00",
+    "d": "NULL",
+    "e": "Tra tien xe"
+  },
+  {
+    "a": "06/12/2023",
+    "b": "FT23280605816725",
+    "c": "15,000,000.00",
+    "d": "NULL",
+    "e": "NGUYEN THI HOAI THU chuyen khoan - Ma giao dich/ Trace 391502"
+  },
+  {
+    "a": "11/12/2023",
+    "b": "FT23874200924879/BR1",
+    "c": "NULL",
+    "d": "30,844,423.00",
+    "e": "MBAL TT hoa hong va thuong dai ly dot 1 t_hang 11.2023"
+  },
+  {
+    "a": "15/12/2023",
+    "b": "FT2328307016180",
+    "c": "4,000,000.00",
+    "d": "NULL",
+    "e": "NGUYEN THI HOAI THU chuyen khoan"
+  },
+  {
+    "a": "18/12/2023",
+    "b": "FT23879186524883/BR1",
+    "c": "NULL",
+    "d": "50,505,154.00",
+    "e": "MBAL TT hoa hong va thuong dai ly dot 2 t_hang 11.2023"
+  },
+  {
+    "a": "27/12/2023",
+    "b": "FT23288981281490",
+    "c": "1,465,000.00",
+    "d": "NULL",
+    "e": "NGUYEN THI HOAI THU chuyen khoan - Ma GD AC SP/ R870418"
+  },
+  {
+    "a": "30/12/2023",
+    "b": "18988991986-20231230",
+    "c": "NULL",
+    "d": "1,079.00",
+    "e": "BUT TOAN TRA LAI"
+  },
+  {
+    "a": "02/01/2024",
+    "b": "FT24290351864520",
+    "c": "580,000.00",
+    "d": "NULL",
+    "e": "NGUYEN THI HOAI THU chuyen khoan - Ma giao dich/ Trace 410285"
+  },
+  {
+    "a": "02/01/2024",
+    "b": "FT24291159543848",
+    "c": "851,817.00",
+    "d": "NULL",
+    "e": "THU NO THE TIN DUNG VISA THANG 10. 2023 MAGD 22310311812838052SUB1"
+  },
+  {
+    "a": "10/01/2024",
+    "b": "FT24302872493674/BR1",
+    "c": "NULL",
+    "d": "30,252,355.00",
+    "e": "MBAL TT hoa hong va thuong dai ly dot 1 t_hang 12.2023"
+  },
+  {
+    "a": "16/01/2024",
+    "b": "1225121978-20231021",
+    "c": "NULL",
+    "d": "12,904.00",
+    "e": "BUT TOAN TRA LAI"
+  },
+  {
+    "a": "18/01/2024",
+    "b": "FT24546191951185/BR1",
+    "c": "NULL",
+    "d": "50,804,487.00",
+    "e": "MBAL TT hoa hong va thuong dai ly dot 2 t_hang 12.2023"
+  },
+  {
+    "a": "29/01/2024",
+    "b": "FT24297410069990",
+    "c": "NULL",
+    "d": "15,000,000.00",
+    "e": "TA CK TIEN HANG 241023 09 24 46 936 581 Ma gia dich Trace936581 Trace 936581"
+  },
+  {
+    "a": "30/01/2024",
+    "b": "18988991986-20240130",
+    "c": "NULL",
+    "d": "1,797.00",
+    "e": "BUT TOAN TRA LAI"
+  },
+  {
+    "a": "31/01/2024",
+    "b": "FT24297700461806",
+    "c": "300,000,000.00",
+    "d": "NULL",
+    "e": "NGUYEN THI HOAI THU chuyen khoan - Ma GD AC SP/ 6822912"
+  },
+  {
+    "a": "31/01/2024",
+    "b": "FT24297502189107",
+    "c": "NULL",
+    "d": "8,000,000.00",
+    "e": "TRAN THI YEN chuyen den NGUYEN THI HOAI THU FT23297700147394 Ma giao dich Trace4124 42 Trace 412442"
+  },
+  {
+    "a": "05/02/2024",
+    "b": "FT24195964362165/BR1",
+    "c": "NULL",
+    "d": "30,497,328.00",
+    "e": "MBAL TT hoa hong va thuong dai ly dot 1 t_hang 01.2024"
+  },
+  {
+    "a": "10/02/2024",
+    "b": "FT24297883055049",
+    "c": "21,200,000.00",
+    "d": "NULL",
+    "e": "NGUYEN THI HOAI THU chuyen khoan - Ma giao dich Trace 903182"
+  },
+  {
+    "a": "21/02/2024",
+    "b": "FT2429992062434",
+    "c": "NULL",
+    "d": "5,000,000.00",
+    "e": "LE THI PHUONG chuyen khoan"
+  },
+  {
+    "a": "22/02/2024",
+    "b": "FT24421058459371/BR1",
+    "c": "NULL",
+    "d": "50,812,853.00",
+    "e": "MBAL TT hoa hong va thuong dai ly dot 2 t_hang 01.2024"
+  },
+  {
+    "a": "28/02/2024",
+    "b": "FT2430079514544",
+    "c": "NULL",
+    "d": "5,000,000.00",
+    "e": "MVBCB 4501841.521.9692.TRAN VAN THANH chuyen tien vat lieu xay mang ctu 1031 049502 TRAN VAN THANH toi 1225121978 NGUYEN THI HOAI THU tai MB- Ma GD ACSP/ 0289323"
+  },
+  {
+    "a": "29/02/2024",
+    "b": "18988991986-20240229",
+    "c": "NULL",
+    "d": "2,791.00",
+    "e": "BUT TOAN TRA LAI"
+  },
+  {
+    "a": "03/03/2024",
+    "b": "FT2430067699255",
+    "c": "10,000,000.00",
+    "d": "NULL",
+    "e": "NGUYEN THI HOAI THU chuyen khoan - Ma GD AC SP/ G298773"
+  },
+  {
+    "a": "03/03/2024",
+    "b": "FT2430358002110",
+    "c": "50,000,000.00",
+    "d": "NULL",
+    "e": "Thanh toan tien hang- Ma GD ACSP/B 1171055"
+  },
+  {
+    "a": "03/03/2024",
+    "b": "FT2430345143354",
+    "c": "3,200,000.00",
+    "d": "NULL",
+    "e": "NGUYEN THI HOAI THU chuyen khoan - Ma giao dich/ Trace 438440"
+  },
+  {
+    "a": "06/03/2024",
+    "b": "FT2430358991050",
+    "c": "NULL",
+    "d": "14,000,000.00",
+    "e": "CHUYEN TIEN HANG 301023 15 34 04 32 9859 Ma giao dich Trace598759 Trace 598759"
+  },
+  {
+    "a": "11/03/2024",
+    "b": "FT24149618550466/BR1",
+    "c": "NULL",
+    "d": "30,746,484.00",
+    "e": "MBAL TT hoa hong va thuong dai ly dot 1 t_hang 02.2024"
+  },
+  {
+    "a": "18/03/2024",
+    "b": "FT2430485232803",
+    "c": "NULL",
+    "d": "12,000,000.00",
+    "e": "MVBCB 4526185309.098715.TRAN VAN THI ANH chuyen tien vat lieu xay mang ctu 1031 049502 TRAN VAN THANH toi 1225121978 NGUYEN THI HOAI THU tai MB- Ma GD ACSP/ 0289323"
+  },
+  {
+    "a": "18/03/2024",
+    "b": "FT24418981261511/BR1",
+    "c": "NULL",
+    "d": "50,398,679.00",
+    "e": "MBAL TT hoa hong va thuong dai ly dot 2 t_hang 02.2024"
+  },
+  {
+    "a": "23/03/2024",
+    "b": "FT24305345750721",
+    "c": "NULL",
+    "d": "1,000,000.00",
+    "e": "Ck tien hang"
+  },
+  {
+    "a": "27/03/2024",
+    "b": "FT24305565049005",
+    "c": "NULL",
+    "d": "1,500,000.00",
+    "e": "MVBCB.4536104104.039823.TRAN VAN THANH chuyen tien. CT tu 935271971031 049502 TRAN VAN THANH toi 1225121978 NGUYEN THI HOAI THU tai MB- Ma GD ACSP/ 0289323"
+  },
+  {
+    "a": "28/03/2024",
+    "b": "FT24305205855812",
+    "c": "5,000,000.00",
+    "d": "NULL",
+    "e": "NGUYEN THI HOAI THU chuyen khoan"
+  },
+  {
+    "a": "29/03/2024",
+    "b": "FT24305167030376",
+    "c": "400,000.00",
+    "d": "NULL",
+    "e": "NGUYEN THI HOAI THU chuyen khoan"
+  },
+  {
+    "a": "30/03/2024",
+    "b": "18988991986-20240330",
+    "c": "NULL",
+    "d": "1,864.00",
+    "e": "BUT TOAN TRA LAI"
+  },
+  {
+    "a": "01/04/2024",
+    "b": "FT2430634512704",
+    "c": "15,000,000.00",
+    "d": "NULL",
+    "e": "NGUYEN THI HOAI THU chuyen khoan"
+  },
+  {
+    "a": "09/04/2024",
+    "b": "FT24307260209083",
+    "c": "50,000,000.00",
+    "d": "NULL",
+    "e": "NGUYEN THI HOAI THU chuyen khoan"
+  },
+  {
+    "a": "10/04/2024",
+    "b": "FT2430741472690",
+    "c": "150,000,000.00",
+    "d": "NULL",
+    "e": "NGUYEN THI HOAI THU chuyen khoan"
+  },
+  {
+    "a": "10/04/2024",
+    "b": "FT24352182572967/BR1",
+    "c": "NULL",
+    "d": "30,375,840.00",
+    "e": "MBAL TT hoa hong va thuong dai ly dot 1 t_hang 03.2024"
+  },
+  {
+    "a": "12/04/2024",
+    "b": "FT24319065554447",
+    "c": "24,000,000.00",
+    "d": "NULL",
+    "e": "TS CK A HOA 051123 09 36 57 816247 Ma giao dich Trace816247 Trace 3 816247"
+  },
+  {
+    "a": "12/04/2024",
+    "b": "FT24310822312444",
+    "c": "15,000,000.00",
+    "d": "NULL",
+    "e": "NGUYEN THI THU THUY chuyen khoan"
+  },
+  {
+    "a": "16/04/2024",
+    "b": "FT2431009839866",
+    "c": "1,000,000.00",
+    "d": "NULL",
+    "e": "NGUYEN THI THU THUY chuyen khoan"
+  },
+  {
+    "a": "18/04/2024",
+    "b": "FT24743283974196/BR1",
+    "c": "NULL",
+    "d": "50,337,398.00",
+    "e": "MBAL TT hoa hong va thuong dai ly dot 2 t_hang 03.2024"
+  },
+  {
+    "a": "21/04/2024",
+    "b": "FT24310041096761",
+    "c": "5,000,000.00",
+    "d": "NULL",
+    "e": "NGUYEN THI THU THUY chuyen khoan"
+  },
+  {
+    "a": "23/04/2024",
+    "b": "18988991986-20221128",
+    "c": "NULL",
+    "d": "6,523.00",
+    "e": "BUT TOAN TRA LAI"
+  },
+  {
+    "a": "25/04/2024",
+    "b": "FT24331784475799",
+    "c": "30,000,000.00",
+    "d": "NULL",
+    "e": "NGUYEN THI HOAI THU chuyen khoan"
+  },
+  {
+    "a": "27/04/2024",
+    "b": "FT24331292250673",
+    "c": "80,000,000.00",
+    "d": "NULL",
+    "e": "Thanh toan QR NGUYEN THI HOAI THU chuyen khoan- Ma giao dich/ Trace 634847"
+  },
+  {
+    "a": "30/04/2024",
+    "b": "18988991986-20240430",
+    "c": "NULL",
+    "d": "2,986.00",
+    "e": "BUT TOAN TRA LAI"
+  },
+  {
+    "a": "10/05/2024",
+    "b": "FT24609470166345/BR1",
+    "c": "NULL",
+    "d": "30,050,535.00",
+    "e": "MBAL TT hoa hong va thuong dai ly dot 1 t_hang 04.2024"
+  },
+  {
+    "a": "18/05/2024",
+    "b": "FT24696375101451/BR1",
+    "c": "NULL",
+    "d": "50,742,566.00",
+    "e": "MBAL TT hoa hong va thuong dai ly dot 2 t_hang 04.2024"
+  },
+  {
+    "a": "24/05/2024",
+    "b": "FT24332050409472",
+    "c": "32,000,000.00",
+    "d": "NULL",
+    "e": "NGUYEN THI HOAI THU chuyen khoan - Ma giao dich/ Trace 821431"
+  },
+  {
+    "a": "30/05/2024",
+    "b": "18988991986-20240530",
+    "c": "NULL",
+    "d": "1,021.00",
+    "e": "BUT TOAN TRA LAI"
+  }
+]

@@ -1,0 +1,20 @@
+.page {
+  font-size: 13px;
+
+  .table_data {
+    tbody {
+      td {
+        padding-top: 2px;
+        padding-bottom: 4px;
+      }
+
+      tr {
+        &:first-child {
+          td {
+            padding-top: 6px;
+          }
+        }
+      }
+    }
+  }
+}

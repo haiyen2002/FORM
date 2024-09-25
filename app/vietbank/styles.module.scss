@@ -1,0 +1,60 @@
+.page {
+  font-size: 11px;
+  font-family: Arial, Helvetica, sans-serif;
+  line-height: 1.3;
+  // letter-spacing: -0.2px;
+
+  span {
+    display: inline-block;
+  }
+
+  .table_data {
+    thead {
+      border-top: 1px solid #000;
+      border-bottom: 1px solid #000;
+
+      th {
+        font-weight: normal;
+        padding-top: 2px;
+
+        &:nth-child(1),
+        &:nth-child(2) {
+          text-align: left;
+        }
+
+        &:nth-child(1) {
+          width: 98px;
+        }
+
+        &:nth-child(2) {
+          width: 90px;
+        }
+
+        &:nth-child(3) {
+          width: 185px;
+        }
+
+        &:nth-child(4) {
+          width: 120px;
+        }
+
+        &:nth-child(5) {
+          width: 110px;
+        }
+      }
+    }
+
+    tbody {
+      td {
+        padding: 6px;
+        padding-left: 8px;
+        padding-right: 8px;
+        &:nth-child(4),
+        &:nth-child(5),
+        &:nth-child(6) {
+          text-align: right;
+        }
+      }
+    }
+  }
+}

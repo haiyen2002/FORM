@@ -1,0 +1,26 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  font-family: "Times New Roman", serif;
+  font-size: 12px;
+  line-height: 1.01;
+  letter-spacing: 0.01px;
+}
+
+@media print {
+  .no-print {
+    display: none !important;
+  }
+}
+
+/* @media print { */
+body {
+  counter-reset: page;
+}
+
+/* header::before {
+  content: "Page " counter(page) " of " target-counter(attr(target), page);
+  counter-increment: page;
+} */
